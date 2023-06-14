@@ -1,0 +1,16 @@
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\bin\Debug\net5.0\Calculadora_Majo.exe
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\bin\Debug\net5.0\Calculadora_Majo.deps.json
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\bin\Debug\net5.0\Calculadora_Majo.runtimeconfig.json
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\bin\Debug\net5.0\Calculadora_Majo.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\bin\Debug\net5.0\Calculadora_Majo.dll
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\bin\Debug\net5.0\Calculadora_Majo.pdb
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.AssemblyInfo.cs
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.dll
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\refint\Calculadora_Majo.dll
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.pdb
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\Calculadora_Majo.genruntimeconfig.cache
+C:\Users\Anton\source\repos\Calculadora_Majo\Calculadora_Majo\obj\Debug\net5.0\ref\Calculadora_Majo.dll
